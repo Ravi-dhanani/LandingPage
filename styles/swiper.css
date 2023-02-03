@@ -1,0 +1,27 @@
+.swiper-button-next {
+  color: black;
+}
+.swiper-button-next:hover {
+  color: white;
+}
+.swiper-button-next {
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  background-position: center;
+}
+
+.swiper-button-prev {
+  color: black;
+}
+.swiper-button-prev:hover {
+  color: white;
+}
+.swiper-button-prev {
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  background-position: center;
+}
+
+.swiper-pagination-bullet-active {
+  background-color: red;
+}
